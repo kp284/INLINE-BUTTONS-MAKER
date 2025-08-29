@@ -1,1 +1,1 @@
-worker: python postall2 (1).py
+worker: python bot.py
