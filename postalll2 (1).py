@@ -19,9 +19,9 @@ from telegram.constants import ParseMode, ChatType
 
 # --- CONFIGURATION & SETUP ---
 # Replace with your bot's token from BotFather
-BOT_TOKEN = "8320194297:AAEPoJK8BhrIsuece6xfK6dWNr3kPQBJ1m4"
+BOT_TOKEN = "7247516860:AAGqJJMC1wexY-PKefKC2ZvMPVpu8uj9kfI"
 # Replace with your Telegram User ID (get it from @userinfobot)
-OWNER_ID = 6713695641
+OWNER_ID = 7507183871
 
 # Enable logging
 logging.basicConfig(
